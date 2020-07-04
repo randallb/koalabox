@@ -1,0 +1,17 @@
+{
+  "name": "koalabox",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Randall Bennett <github@randallb.dev>",
+  "license": "all",
+  "private": true,
+  "scripts": {
+    "dev": "./dev.sh"
+  },
+  "dependencies": {
+    "concurrently": "^5.2.0"
+  },
+  "devDependencies": {
+    "flow-typed": "^3.1.0"
+  }
+}
