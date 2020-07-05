@@ -12,6 +12,8 @@
     "concurrently": "^5.2.0"
   },
   "devDependencies": {
+    "flow-bin": "^0.128.0",
+    "flow-mono-cli": "^1.5.3",
     "flow-typed": "^3.1.0"
   }
 }
